@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CaduDurans
-- 👀 I’m interested in  Algortimos de Controle de Sistemas e de Inteligêngia Computacional
-- 🌱 I’m currently learning  à implementar códigos de controle  de sistemas em espaço de estados em Python
-- 💞️ I’m looking to collaborate on na difusão de códigos úteis para área de sistemas de controle em Matlab, Arduino e Python
+- 👀 I’m interested in Control and Computational Intelligence Algorthms.
+- 🌱 I’m currently learning to implement state space system control codes in Python.
+- 💞️ I’m looking to collaborate on diffusion of useful codes for control of systems area in Matlab, Arduino and Python.
 - 📫 LACOS - UFPA lacos.ufpa.br
 
 <!---
